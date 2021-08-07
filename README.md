@@ -4,7 +4,7 @@ enable access to the Windows Insider Program on PCs<br>
 not signed in with Microsoft Account. This program<br>
 is compatible only with Windows 11 only.
 
-## Usage
+## Usage guide
 Just run the program by double clicking it<br>
 and choose your option in the prompt.
 
