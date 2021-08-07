@@ -30,7 +30,7 @@ prompted to restart your machine to enable *Microsoft Flight Signing*. <br>
 
 <a href="https://lh3.googleusercontent.com/-5_F7O8n2SrU/YQ7SlT1b25I/AAAAAAAAj9s/esEQnCQN9M8Fnx74HYE3R06f3G42KcZHgCLcBGAsYHQ/s16000/Screenshot%2B%2528228%2529.png"><img width="60%" height="auto" src="https://lh3.googleusercontent.com/-2R6W36ECe7o/YQ7R4gptrsI/AAAAAAAAj9k/FjALnC6Ecm0EBBnVUSV4KJSGZiXJsGqTQCLcBGAsYHQ/s16000/ss.png" height="175px"/></a>
 
-**Notice:** Windows Insider Program requires telemetry to be set to *Full*.
+**🔴 Notice:** Windows Insider Program requires telemetry to be set to *Full*.
 After enrolling your machine to the *Windows Insider Program* please make sure
 that your diagnostic data collection settings are set to *Full*. Some *Insider
 Preview* builds may not get offered in *Windows Update* if you do not have
