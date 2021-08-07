@@ -17,12 +17,11 @@ Just run the program by double clicking on it<br>
 and choose your preferred option in the prompt.
 
 ## ⚙️ Installation and configurations
-After starting the program it offers with options to<br>
+After starting the program it offers with the options to<br>
 select the version of *Windows Insider Program* channels.<br>
 To make a selection, press the respective option no. & press enter.<br>
 If the machine was not enrolled to the Insider Program, you will get<br>
-prompted to restart your machine to enable *Microsoft Flight Signing* <br>
-which is required by *Windows Insider Program*.
+prompted to restart your machine to enable *Microsoft Flight Signing*. <br>
 
 **Notice:** Windows Insider Program requires telemetry to be set to *Full*.
 After enrolling your machine to the *Windows Insider Program* please make sure
@@ -31,7 +30,7 @@ Preview* builds may not get offered in *Windows Update* if you do not have
 correct telemetry settings. You can verify or modify your telemetry settings in
 *Settings* > *Privacy* > *Diagnostics & feedback*.
 
-## 🔄️ Restoring Windows Insider Program to default
+## 🔄️ How to restore to default
 To restore *Windows Insider Program* to default settings just<br>
 choose `Quit without making any changes` in InsiderSwitch.<br>
 You will get prompted to reboot, press Y and then enter.<br>
