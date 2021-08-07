@@ -46,8 +46,7 @@ If this value is set to `0x20`, all access to online *Windows Insider* services
 gets disabled. Because of this, we can set our own *Windows Insider Preview*
 configuration without being overriden by the contact to the service. Since
 Windows Update does not check if machine is actually enrolled to the program,
-you will get offered *Insider Preview* builds by just setting correct values in
-the registry.
+you will get offered *Insider Preview* builds by just setting correct values in registry.
 
 ## 🌎 Contact me  
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
