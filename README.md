@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/utsanjan/Android-Pin-Bruteforce/">
+  <a href="https://github.com/utsanjan/InsiderSwitch">
   <img src="https://lh3.googleusercontent.com/-R9auUcvj2Do/YQ6KPZ_rxaI/AAAAAAAAj80/ktWpV0mpCDMKPOJGWsST4DvINK1_My_EQCLcBGAsYHQ/w200-h200/InsiderSwitch.ico"
-  alt="Android Pin Bruteforce">
+  alt="Insider Switch">
   </a><br>
   Insider Switch
   <br>
