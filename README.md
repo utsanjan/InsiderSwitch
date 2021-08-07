@@ -28,6 +28,8 @@ To make a selection, press the respective option no. & press enter.<br>
 If the machine was not enrolled to the Insider Program, you will get<br>
 prompted to restart your machine to enable *Microsoft Flight Signing*. <br>
 
+<a href="https://lh3.googleusercontent.com/-5_F7O8n2SrU/YQ7SlT1b25I/AAAAAAAAj9s/esEQnCQN9M8Fnx74HYE3R06f3G42KcZHgCLcBGAsYHQ/s16000/Screenshot%2B%2528228%2529.png"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/-2R6W36ECe7o/YQ7R4gptrsI/AAAAAAAAj9k/FjALnC6Ecm0EBBnVUSV4KJSGZiXJsGqTQCLcBGAsYHQ/s16000/ss.png" height="175px"/></a>
+
 **Notice:** Windows Insider Program requires telemetry to be set to *Full*.
 After enrolling your machine to the *Windows Insider Program* please make sure
 that your diagnostic data collection settings are set to *Full*. Some *Insider
@@ -35,7 +37,7 @@ Preview* builds may not get offered in *Windows Update* if you do not have
 correct telemetry settings. You can verify or modify your telemetry settings in
 *Settings* > *Privacy* > *Diagnostics & feedback*.
 
-## 🔄️ How to restore to default
+## ⚡ Restore to default
 To restore *Windows Insider Program* to default settings just<br>
 choose `Quit without making any changes` in InsiderSwitch.<br>
 You will get prompted to reboot, press Y and then enter.<br>
