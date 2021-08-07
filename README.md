@@ -14,7 +14,12 @@ that aren't signed in with Microsoft Account</p> <br>
 
 ## 📝 Usage guide
 Just run the program by double clicking on it<br>
-and choose your preferred option in the prompt.
+and choose your preferred option in the prompt.<br>
+Click the button below to download InsiderSwitch.<br><br>
+
+<a href="https://github.com/utsanjan/InsiderSwitch/releases">
+<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
+alt="Tsunami App Download"></a><br>ㅤ
 
 ## ⚙️ Installation and configurations
 After starting the program it offers with the options to<br>
