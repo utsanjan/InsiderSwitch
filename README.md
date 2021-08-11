@@ -50,6 +50,12 @@ configuration without being overriden by the contact to the service. Since
 Windows Update does not check if machine is actually enrolled to the program,
 you will get offered *Insider Preview* builds by just setting correct values in registry.
 
+## ✒️ Credits 
+### [Whatever127](https://github.com/whatever127)<br>
+**Work: Whatever127 designed the Offline Insider Enroll<br>
+which helped me a lot to make this program working.** <br>
+[Click here to visit offline Insider Enroll Repository](https://github.com/whatever127/offlineinsiderenroll)
+
 ## 🌎 Contact me  
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
