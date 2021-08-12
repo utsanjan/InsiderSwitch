@@ -38,8 +38,8 @@ correct telemetry settings. You can verify or modify your telemetry settings in
 *Settings* > *Privacy* > *Diagnostics & feedback*.
 
 ## ⚡ Restore to default
-To restore *Windows Insider Program* to default settings just<br>
-choose `Quit without making any changes` in InsiderSwitch.<br>
+To restore *Windows Insider Program* to default settings<br>
+just choose `Unenroll Insider Preview` in InsiderSwitch.<br>
 You will get prompted to reboot, press Y and then enter.<br>
 
 ## 🧭 How it works
