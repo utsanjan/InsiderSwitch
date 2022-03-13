@@ -11,7 +11,7 @@
 executable that enables access to the<br>
 Windows Insider Program on computers<br>
 that aren't signed in with Microsoft Account</p> <br>
- 
+
 ## 📝 Usage guide
 Just run the program by double clicking on it<br>
 and choose your preferred option in the prompt.<br>
