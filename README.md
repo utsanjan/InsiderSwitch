@@ -13,6 +13,8 @@ Windows Insider Program on computers<br>
 that aren't signed in with Microsoft Account</p> <br>
 
 ## 📝 Usage guide
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/license/utsanjan/Tsunami-Bomber-Android?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br><br>
 Just run the program by double clicking on it<br>
 and choose your preferred option in the prompt.<br>
 Click the button below to download InsiderSwitch.<br><br>
